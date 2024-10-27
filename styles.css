@@ -3,11 +3,15 @@ body {
 }
 
 .body-adobo {
-    background-color: #b9442a;
+    background-color: #b2a19d;
     color: #d9d0d0;
 }
 
 .body-sinigang {
     background-color: #b9442a;
     color: #d9d0d0;
+} 
+
+.body-pinakbet {
+    background-color: #c8a993;
 }
