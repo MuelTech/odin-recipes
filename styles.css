@@ -19,19 +19,7 @@ button {
     background-color: #c8a993;
 }
 
-.btn-adobo .a-adobo {
-    text-decoration: none;
-    color: inherit;
-    color: black;
-}
-
-.btn-pinakbet .a-pinakbet {
-    text-decoration: none;
-    color: inherit;
-    color: black;
-}
-
-.btn-sinigang .a-sinigang {
+.anchor {
     text-decoration: none;
     color: inherit;
     color: black;
