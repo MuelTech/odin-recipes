@@ -47,14 +47,18 @@ button {
     padding-bottom: 15px;
     max-width: 400px;
     max-height: 650px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.42);
+    border-radius: 5px;
 }
 
 img {
     width: 100%;
     height: 500px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
-h4.title-recipe {
+h3.title-recipe {
     padding-top: 60px;
     padding-left: 30px;
 }
