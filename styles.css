@@ -51,7 +51,7 @@ button {
     border-radius: 5px;
 }
 
-img {
+img.img-food {
     width: 100%;
     height: 500px;
     border-top-left-radius: 5px;
